@@ -11,4 +11,4 @@ This repository provides a collection of resources for collaboratve model-driven
 ## Introductory materials
 
 #### Collaborative Model-driven software engineering 
-* [Model-Driven Software Engineering in Practice - Introduction](https://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction) <img src="https://github.com/david-istvan/awesome-mde/blob/main/icons/presentation.png?raw=true" alt="Presentation" width="16"/> by Marco Brambilla, Jordi Cabot and Manuel Wimmer
+* [Model-Driven Software Engineering in Practice - Introduction](http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf) by Istvan David, Kousar Aslam, Sogol Faridmoayer, Ivano Malavolta, Eugene Syriani, Patricia Lago
