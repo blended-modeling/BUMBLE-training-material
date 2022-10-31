@@ -19,4 +19,5 @@ This repository provides a collection of resources for collaboratve model-driven
 ToDo
 
 ## Tools
-ToDO
+
+* [EMF Diff/Merge](https://wiki.eclipse.org/EMF_DiffMerge)
