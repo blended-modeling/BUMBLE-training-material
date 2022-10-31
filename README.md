@@ -22,5 +22,4 @@ ToDo
 * Asynchronous collaborative modeling 
 
   * [EMF Diff/Merge](https://wiki.eclipse.org/EMF_DiffMerge)
-
-  * [EMF Compare](https://www.eclipse.org/emf/compare))
+  * [EMF Compare](https://www.eclipse.org/emf/compare)
