@@ -19,5 +19,8 @@ This repository provides a collection of resources for collaboratve model-driven
 ToDo
 
 ## Tools
+* Asynchronous collaborative modeling 
 
-* [EMF Diff/Merge](https://wiki.eclipse.org/EMF_DiffMerge)
+  * [EMF Diff/Merge](https://wiki.eclipse.org/EMF_DiffMerge)
+
+  * [EMF Compare](https://www.eclipse.org/emf/compare))
