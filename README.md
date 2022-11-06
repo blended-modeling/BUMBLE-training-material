@@ -15,6 +15,8 @@ This repository provides a collection of resources for collaboratve model-driven
 
 ## Collaboration engine
 
+
+
 #### Scientific publications
 
 * [Collaborative Model-Driven Software Engineering: A Systematic Update](http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf) by Istvan David, Kousar Aslam, Sogol Faridmoayer, Ivano Malavolta, Eugene Syriani, Patricia Lago (MODELS-C), 2021.
@@ -24,6 +26,7 @@ This repository provides a collection of resources for collaboratve model-driven
 
 #### Slides
 
+* [Collaborative Modeling across language workbenches](https://howcom2021.github.io/presentations/parsafix.pdf)
 
 #### Tools
  * [Parsafix](https://github.com/blended-modeling/parsafix)
