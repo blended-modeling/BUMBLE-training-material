@@ -13,18 +13,27 @@ This repository provides a collection of resources for collaboratve model-driven
 * [(Meta-)Model co-evolution](#model-coevolution)
 
 
-## Introductory materials
+## Collaboration engine
 
-#### Collaborative Model-driven software engineering 
+#### Scientific publications
+
 * [Collaborative Model-Driven Software Engineering: A Systematic Update](http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf) by Istvan David, Kousar Aslam, Sogol Faridmoayer, Ivano Malavolta, Eugene Syriani, Patricia Lago
 * [Collaborative model-driven software engineering: a classification framework and a research map](http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE/papers/collaborativeMDSE_TSE_accepted.pdf) by Mirco Franzago, Davide Di Ruscio, Ivano Malavolta and Henry Muccini
 
+#### Slides
 
-## Methods and techniques
+
+#### Tools
+
+ * [EMF Diff/Merge](https://wiki.eclipse.org/EMF_DiffMerge)
+ * [EMF Compare](https://www.eclipse.org/emf/compare)
+
+
+
+
+## Editor generators
+
 ToDo
 
-## Tools
-* Asynchronous collaborative modeling 
 
-  * [EMF Diff/Merge](https://wiki.eclipse.org/EMF_DiffMerge)
-  * [EMF Compare](https://www.eclipse.org/emf/compare)
+ 
