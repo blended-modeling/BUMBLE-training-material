@@ -20,12 +20,13 @@ This repository provides a collection of resources for collaboratve model-driven
 * [Collaborative Model-Driven Software Engineering: A Systematic Update](http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf) by Istvan David, Kousar Aslam, Sogol Faridmoayer, Ivano Malavolta, Eugene Syriani, Patricia Lago (MODELS-C), 2021.
 * [Collaborative model-driven software engineering: a classification framework and a research map](http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE/papers/collaborativeMDSE_TSE_accepted.pdf) by Mirco Franzago, Davide Di Ruscio, Ivano Malavolta and Henry Muccini, (TSE), 2015.
 * [Real-Time Collaborative Modeling across Language Workbenches - a Case on Jetbrains MPS and Eclipse Spoofax](https://www.ivanomalavolta.com/files/papers/HoWCoM_2021.pdf) S. Noah Voogd, Kousar Aslam, Louis van Gool, Bart Theelen, Ivano Malavolta (HoWCoM), 2021.
+* Collaborative Model-Driven Software Engineering – A Systematic Survey of Practices and Needs in Industry, by Istvan Davida, Kousar Aslam, Ivano Malavolta and Patricia Lago. Under minor review at JSS, 2022. 
 
 #### Slides
 
 
 #### Tools
-
+ * [Parsafix](https://github.com/blended-modeling/parsafix)
  * [EMF Diff/Merge](https://wiki.eclipse.org/EMF_DiffMerge)
  * [EMF Compare](https://www.eclipse.org/emf/compare)
 
@@ -36,5 +37,23 @@ This repository provides a collection of resources for collaboratve model-driven
 
 ToDo
 
+## Blended editors
 
+ToDo
+
+## Diff and Merge 
+
+ToDo
+
+## Blended model access
+
+ToDo
+
+## Platform integration
+
+ToDo
+
+## (Meta-)Model co-evolution
+
+ToDo
  
