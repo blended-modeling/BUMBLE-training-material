@@ -4,9 +4,14 @@ This repository provides a collection of resources for collaboratve model-driven
 
 ## Index
 
-* [Introductory materials](#introductory-materials)
-* [Methods and techniques](#methods-and-techniques)
-* [Tools](#tools)
+* [Collaboration engine](#collaboration-engine)
+* [Editor generators](#editor-generators)
+* [Blended editors](#blended-editors)
+* [Diff and Merge](#diff-and-merge)
+* [Blended model access](#blended-model-access)
+* [Platform integration](#platform-integration)
+* [(Meta-)Model co-evolution](#model-coevolution)
+
 
 ## Introductory materials
 
