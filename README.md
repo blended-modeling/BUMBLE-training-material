@@ -38,7 +38,10 @@ This repository provides a collection of resources for collaboratve model-driven
 
 ## Editor generators
 
-ToDo
+* Patrick Neubauer, Robert Bill, Tanja Mayerhofer, Manuel Wimmer, [Automated generation of consistency-achieving model editors](https://csdl-downloads.ieeecomputer.org/proceedings/saner/2017/5501/00/07884615.pdf?Expires=1680186675&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NhbmVyLzIwMTcvNTUwMS8wMC8wNzg4NDYxNS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODAxODY2NzV9fX1dfQ__&Signature=qAneOXP1eemTOxLyQL~vmUTMA2NyS3gUSHz7uzgGHHx-SsnBIuOmPUMbULcgp34zWzu8mye6XxXvtbZPuyHHGPLLk0oxwOiR0QQ6r2t88O9bBcU~XDheZd3w9LG7EBnFwjVZf08uRKZQ818mRrS9q~Blxgeq23NApXtio2rjTQWfl~V5cuGwIPC5TlIPn0-BkIhDC~~TJUwciiMOjaywM2nudbE6P4F~wo55JTZq~kDQrMyyhH65V74Z-wN09tgVYQ4wmu~CrMxtaR8FXOo9QyaFEuAT5TLSjEPUE7iDluju9hBUXFGtJc5FK38UFZkm~vHQWN06EtVHae84Qqimaw__&Key-Pair-Id=K12PMWTCQBDMDT), (SANER, 2017). 
+* Eugene Syriani, Daniel Riegelhaupt, Bruno Barroca, Istvan David 1,†
+
+
 
 ## Blended editors
 
