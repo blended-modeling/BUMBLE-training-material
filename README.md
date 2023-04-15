@@ -38,6 +38,8 @@ This repository provides a collection of resources for collaboratve model-driven
 
 ## Editor generators
 
+#### Scientific publications
+
 * Patrick Neubauer, Robert Bill, Tanja Mayerhofer and Manuel Wimmer, [Automated generation of consistency-achieving model editors](https://csdl-downloads.ieeecomputer.org/proceedings/saner/2017/5501/00/07884615.pdf?Expires=1680186675&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NhbmVyLzIwMTcvNTUwMS8wMC8wNzg4NDYxNS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODAxODY2NzV9fX1dfQ__&Signature=qAneOXP1eemTOxLyQL~vmUTMA2NyS3gUSHz7uzgGHHx-SsnBIuOmPUMbULcgp34zWzu8mye6XxXvtbZPuyHHGPLLk0oxwOiR0QQ6r2t88O9bBcU~XDheZd3w9LG7EBnFwjVZf08uRKZQ818mRrS9q~Blxgeq23NApXtio2rjTQWfl~V5cuGwIPC5TlIPn0-BkIhDC~~TJUwciiMOjaywM2nudbE6P4F~wo55JTZq~kDQrMyyhH65V74Z-wN09tgVYQ4wmu~CrMxtaR8FXOo9QyaFEuAT5TLSjEPUE7iDluju9hBUXFGtJc5FK38UFZkm~vHQWN06EtVHae84Qqimaw__&Key-Pair-Id=K12PMWTCQBDMDT), (SANER, 2017). 
 * Eugene Syriani, Daniel Riegelhaupt, Bruno Barroca and Istvan David, [Generation of custom textual model editors](https://www.mdpi.com/2673-3951/2/4/32), (Modelling, 2021).
 * Gabriele Taentzer, André Crema, René Schmutzler and Claudia Ermel, [Generating Domain-Specific Model Editors with Complex Editing Commands](https://www.user.tu-berlin.de/lieske/tfs/publikationen/Papers07/TCSE07.pdf), (AGTIVE, 2007).
@@ -59,21 +61,32 @@ This repository provides a collection of resources for collaboratve model-driven
 
 ## Diff and Merge 
 
+#### Scientific publications
+
 * Lars Bendix and Pär Emanuelsson. [Diff and Merge Support for Model Based Development](https://dl.acm.org/doi/pdf/10.1145/1370152.1370161?casa_token=TFNLYroZqsQAAAAA:McPlmT1-G1X-u_mI0xR4Th7ogAkg9HYP1x5rE7fo3_nQiutmfLJ_BEDGK2qzkPRlnQtlWXsIPDzfAw) (CVSM, 2009).
 * Manouchehr Zadahmad, Eugene Syriani, Omar Alam, Esther Guerra and Juan de Lara.[Domain-Specific Model Differencing in Visual Concrete Syntax](https://dl.acm.org/doi/pdf/10.1145/3357766.3359537casa_token=PrDbaamz_nYAAAAA:SZXHIXltz2aDLGnRLaVfAN3YWdh9EeL7cX9IZQI9MNKIDc2aUBqHjgI6AnW-J6Zraoh-fNQpBbwj9A) (SLE, 2019). 
 * Shahar Maoz and Jan Oliver Ringert. [A framework for relating syntactic and semantic model differences](https://link.springer.com/article/10.1007/s10270-016-0552-y) (SoSyM, 2016).
 * Antonio Cicchetti, Davide Di Ruscio, and Alfonso Pierantonio. [A Metamodel Independent Approach to Difference Representation](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7310529bdf40e1f60c8673d23e399e811f94cc66) (JOT, 2007).
 
+#### Tools
+ 
+ * [EMF Diff/Merge](https://wiki.eclipse.org/EMF_DiffMerge)
+ * [EMF Compare](https://www.eclipse.org/emf/compare)
+
 ## Blended model access
+
+#### Scientific publications
 
 * Malvina Latifaj, Federico Ciccozzi, Antonio Cicchetti, [Metamodel portioning for flexible and secure architectural views](https://www.es.mdu.se/publications/6627-Metamodel_portioning_for_flexible_and_secure_architectural_views), (MDE4SA@ICSA, 2023). 
 
 
 ## Platform integration
 
-ToDo
+#### Scientific publications
 
 ## (Meta-)Model co-evolution
+
+#### Scientific publications
 
 * Malvina Latifaj, Federico Ciccozzi, Mattias Mohlin, [Higher-Order Transformations for the Generation of Synchronization Infrastructures in Blended Modeling](https://www.frontiersin.org/articles/10.3389/fcomp.2022.1008062/full), (Front. Comput. Sci., 2023). 
  * Antonio Cicchetti, Davide Di Ruscio, Romina Eramo, Alfonso Pierantonio, [Meta-model Differences for Supporting Model Co-evolution](https://d1wqtxts1xzle7.cloudfront.net/30769317/MODSE08-libre.pdf?1392080798=&response-content-disposition=inline%3B+filename%3DMeta_model_differences_for_supporting_mo.pdf&Expires=1680186971&Signature=QO9m1G~I47SZjMqcfo9dpzv9UrkTGSQXR~n2tImduO3L4ax2UOKLA7fFexEsF0T0bFMrXe7Yve39GQUm9WmVNMUMWoQpf6mSZmWGolJaK7u7soKOqYop8PefD4l-msxSlCvr9KyAoAfOqs5MZ6vJ-H~bjcArC2OX2w3KWpjEKGCHIYfEDzo4ez55Iw4~-ERYmlwRM3xws8vdhLPRe92KsZDL29f3uDLSZhj67AATyS8H2aRyz2PDpbF1aZvOmyJPiR9rf~HH1EmmZdXhIbejnIBIBYgVi~IbBRP7KiLZmRN70p98OBjF2LDA84h~znPIhp1bqp4eYCpXUttfT4kuhA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), (MODSE, 2008).
