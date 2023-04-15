@@ -19,9 +19,9 @@ This repository provides a collection of resources for collaboratve model-driven
 
 #### Scientific publications
 
-* Istvan David, Kousar Aslam, Sogol Faridmoayer, Ivano Malavolta, Eugene Syriani, Patricia Lago, [Collaborative Model-Driven Software Engineering: A Systematic Update](http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf), (MODELS-C 2021).
+* Istvan David, Kousar Aslam, Sogol Faridmoayer, Ivano Malavolta, Eugene Syriani and Patricia Lago, [Collaborative Model-Driven Software Engineering: A Systematic Update](http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf), (MODELS-C 2021).
 * Mirco Franzago, Davide Di Ruscio, Ivano Malavolta and Henry Muccini, [Collaborative model-driven software engineering: a classification framework and a research map](http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE/papers/collaborativeMDSE_TSE_accepted.pdf), (TSE 2015).
-* S. Noah Voogd, Kousar Aslam, Louis van Gool, Bart Theelen, Ivano Malavolta, [Real-Time Collaborative Modeling across Language Workbenches - a Case on Jetbrains MPS and Eclipse Spoofax](https://www.ivanomalavolta.com/files/papers/HoWCoM_2021.pdf), (HoWCoM 2021).
+* S. Noah Voogd, Kousar Aslam, Louis van Gool, Bart Theelen and Ivano Malavolta, [Real-Time Collaborative Modeling across Language Workbenches - a Case on Jetbrains MPS and Eclipse Spoofax](https://www.ivanomalavolta.com/files/papers/HoWCoM_2021.pdf), (HoWCoM 2021).
 * Istvan David, Kousar Aslam, Ivano Malavolta and Patricia Lago, [Collaborative Model-Driven Software Engineering – A Systematic Survey of Practices and Needs in Industry](http://www.ivanomalavolta.com/files/papers/JSS_2023_MDE.pdf), (JSS 2023). 
 
 #### Slides
@@ -38,9 +38,10 @@ This repository provides a collection of resources for collaboratve model-driven
 
 ## Editor generators
 
-* Patrick Neubauer, Robert Bill, Tanja Mayerhofer, Manuel Wimmer, [Automated generation of consistency-achieving model editors](https://csdl-downloads.ieeecomputer.org/proceedings/saner/2017/5501/00/07884615.pdf?Expires=1680186675&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NhbmVyLzIwMTcvNTUwMS8wMC8wNzg4NDYxNS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODAxODY2NzV9fX1dfQ__&Signature=qAneOXP1eemTOxLyQL~vmUTMA2NyS3gUSHz7uzgGHHx-SsnBIuOmPUMbULcgp34zWzu8mye6XxXvtbZPuyHHGPLLk0oxwOiR0QQ6r2t88O9bBcU~XDheZd3w9LG7EBnFwjVZf08uRKZQ818mRrS9q~Blxgeq23NApXtio2rjTQWfl~V5cuGwIPC5TlIPn0-BkIhDC~~TJUwciiMOjaywM2nudbE6P4F~wo55JTZq~kDQrMyyhH65V74Z-wN09tgVYQ4wmu~CrMxtaR8FXOo9QyaFEuAT5TLSjEPUE7iDluju9hBUXFGtJc5FK38UFZkm~vHQWN06EtVHae84Qqimaw__&Key-Pair-Id=K12PMWTCQBDMDT), (SANER, 2017). 
-* Eugene Syriani, Daniel Riegelhaupt, Bruno Barroca, Istvan David, [Generation of custom textual model editors](https://www.mdpi.com/2673-3951/2/4/32), (Modelling, 2021).
-
+* Patrick Neubauer, Robert Bill, Tanja Mayerhofer and Manuel Wimmer, [Automated generation of consistency-achieving model editors](https://csdl-downloads.ieeecomputer.org/proceedings/saner/2017/5501/00/07884615.pdf?Expires=1680186675&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NhbmVyLzIwMTcvNTUwMS8wMC8wNzg4NDYxNS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODAxODY2NzV9fX1dfQ__&Signature=qAneOXP1eemTOxLyQL~vmUTMA2NyS3gUSHz7uzgGHHx-SsnBIuOmPUMbULcgp34zWzu8mye6XxXvtbZPuyHHGPLLk0oxwOiR0QQ6r2t88O9bBcU~XDheZd3w9LG7EBnFwjVZf08uRKZQ818mRrS9q~Blxgeq23NApXtio2rjTQWfl~V5cuGwIPC5TlIPn0-BkIhDC~~TJUwciiMOjaywM2nudbE6P4F~wo55JTZq~kDQrMyyhH65V74Z-wN09tgVYQ4wmu~CrMxtaR8FXOo9QyaFEuAT5TLSjEPUE7iDluju9hBUXFGtJc5FK38UFZkm~vHQWN06EtVHae84Qqimaw__&Key-Pair-Id=K12PMWTCQBDMDT), (SANER, 2017). 
+* Eugene Syriani, Daniel Riegelhaupt, Bruno Barroca and Istvan David, [Generation of custom textual model editors](https://www.mdpi.com/2673-3951/2/4/32), (Modelling, 2021).
+* Gabriele Taentzer, André Crema, René Schmutzler and Claudia Ermel, [Generating Domain-Specific Model Editors with Complex Editing Commands](https://www.user.tu-berlin.de/lieske/tfs/publikationen/Papers07/TCSE07.pdf), (AGTIVE, 2007).
+* Louis-Edouard Lafontant and Eugene Syriani, [Gentleman: A Light-weight Web-based Projectional Editor Generator](https://dl.acm.org/doi/pdf/10.1145/3417990.3421998?casa_token=ia4Sl-EKhu8AAAAA:OYDJ5j9rFoGihMsp-1Aqj0sqECqn8jeONWg8-h9N8ryL7--IJqoWiIRsEgLjv4RLfAI2ejA_JQhQrg), (MoDELS, 2020).
 
 
 ## Blended editors
