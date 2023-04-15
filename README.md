@@ -84,6 +84,10 @@ This repository provides a collection of resources for collaboratve model-driven
 
 #### Scientific publications
 
+* Jörg Holtmann, Jan-Philipp Steghöfer and Weixing Zhang. [Exploiting Meta-Model Structures in the Generation of Xtext Editors](https://www.scitepress.org/Link.aspx?doi=10.5220/0011745900003402), (MODELSWARD, 2023).
+* Weixing Zhang, Regina Hebig, Jan-Philipp Steghöfer and Jörg Holtmann. [Creating Python-style Domain Specific Languages—A Semi-automated Approach and Intermediate Results](https://www.scitepress.org/Link.aspx?doi=10.5220/0011744900003402), (MODELSWARD, 2023).
+* Jörg Holtmann, Jan-Philipp Steghöfer and Henrik Lönn. [Migrating from proprietary tools to open-source software for EAST-ADL metamodel generation and evolution](https://dl.acm.org/doi/pdf/10.1145/3550356.3559084), (MoDELS-C, 2022).
+
 ## (Meta-)Model co-evolution
 
 #### Scientific publications
