@@ -59,7 +59,10 @@ This repository provides a collection of resources for collaboratve model-driven
 
 ## Diff and Merge 
 
-ToDo
+* Lars Bendix and Pär Emanuelsson. [Diff and Merge Support for Model Based Development](https://dl.acm.org/doi/pdf/10.1145/1370152.1370161?casa_token=TFNLYroZqsQAAAAA:McPlmT1-G1X-u_mI0xR4Th7ogAkg9HYP1x5rE7fo3_nQiutmfLJ_BEDGK2qzkPRlnQtlWXsIPDzfAw) (CVSM, 2009).
+* Manouchehr Zadahmad, Eugene Syriani, Omar Alam, Esther Guerra and Juan de Lara.[Domain-Specific Model Differencing in Visual Concrete Syntax](https://dl.acm.org/doi/pdf/10.1145/3357766.3359537casa_token=PrDbaamz_nYAAAAA:SZXHIXltz2aDLGnRLaVfAN3YWdh9EeL7cX9IZQI9MNKIDc2aUBqHjgI6AnW-J6Zraoh-fNQpBbwj9A) (SLE, 2019). 
+* Shahar Maoz and Jan Oliver Ringert. [A framework for relating syntactic and semantic model differences](https://link.springer.com/article/10.1007/s10270-016-0552-y) (SoSyM, 2016).
+* Antonio Cicchetti, Davide Di Ruscio, and Alfonso Pierantonio. [A Metamodel Independent Approach to Difference Representation](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7310529bdf40e1f60c8673d23e399e811f94cc66) (JOT, 2007).
 
 ## Blended model access
 
